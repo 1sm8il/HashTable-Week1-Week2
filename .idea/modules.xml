@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HashTable-Week1-Week2.iml" filepath="$PROJECT_DIR$/.idea/HashTable-Week1-Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem10_MultiLevelCache/Problem10_MultiLevelCache.iml" filepath="$PROJECT_DIR$/Problem10_MultiLevelCache/Problem10_MultiLevelCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem1_UsernameAvailability/Problem1_UsernameAvailability.iml" filepath="$PROJECT_DIR$/Problem1_UsernameAvailability/Problem1_UsernameAvailability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem2_FlashSaleInventory/Problem2_FlashSaleInventory.iml" filepath="$PROJECT_DIR$/Problem2_FlashSaleInventory/Problem2_FlashSaleInventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem3_DNSCache/Problem3_DNSCache.iml" filepath="$PROJECT_DIR$/Problem3_DNSCache/Problem3_DNSCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem4_PlagiarismDetection/Problem4_PlagiarismDetection.iml" filepath="$PROJECT_DIR$/Problem4_PlagiarismDetection/Problem4_PlagiarismDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem5_AnalyticsDashboard/Problem5_AnalyticsDashboard.iml" filepath="$PROJECT_DIR$/Problem5_AnalyticsDashboard/Problem5_AnalyticsDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem6_RateLimiter/Problem6_RateLimiter.iml" filepath="$PROJECT_DIR$/Problem6_RateLimiter/Problem6_RateLimiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem7_Autocomplete/Problem7_Autocomplete.iml" filepath="$PROJECT_DIR$/Problem7_Autocomplete/Problem7_Autocomplete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem8_ParkingLot/Problem8_ParkingLot.iml" filepath="$PROJECT_DIR$/Problem8_ParkingLot/Problem8_ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem9_TwoSum/Problem9_TwoSum.iml" filepath="$PROJECT_DIR$/Problem9_TwoSum/Problem9_TwoSum.iml" />
+    </modules>
+  </component>
+</project>
